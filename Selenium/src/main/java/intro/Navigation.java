@@ -27,6 +27,8 @@ public class Navigation {
 		   action.moveToLocation(x, y).build().perform();
 		   action.clickAndHold(hold).build().perform();
 		   
+		   //stale element Exception --identified element does some action and getting back to the same page and working with same element doesn't work as we have to find the element again to work.
+		   
 	}
 
 }
