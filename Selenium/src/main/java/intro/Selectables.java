@@ -21,7 +21,7 @@ public class Selectables {
 		action.clickAndHold(list.get(1));
 		action.clickAndHold(list.get(2));
 		action.clickAndHold(list.get(3));
-		action.
+		
 
 
 
